@@ -1,0 +1,218 @@
+[
+  {
+    "id": "35dc29c1-dad8-4d86-8cfe-d3038080588c",
+    "name": "New Zealand",
+    "location": {
+      "latitude": -41.0,
+      "longitude": 174.0
+    },
+    "currency": {
+      "name": "New Zealand dollar",
+      "symbol": "$",
+      "code": "currencies.NZD"
+    },
+    "language": {
+      "name": "New Zealand",
+      "code": "en",
+      "locale": "en-NZ"
+    }
+  },
+  {
+    "id": "71976b24-e102-4026-905b-855e1f94308d",
+    "name": "Malaysia",
+    "location": {
+      "latitude": 2.5,
+      "longitude": 112.5
+    },
+    "currency": {
+      "name": "Malaysian ringgit",
+      "symbol": "RM",
+      "code": "currencies.MYR"
+    },
+    "language": {
+      "name": "Malaysia",
+      "code": "ms",
+      "locale": "ms-MY"
+    }
+  },
+  {
+    "id": "4865bb0c-af65-43ab-bff8-d70743a26989",
+    "name": "Republic of Singapore",
+    "location": {
+      "latitude": 1.36666666,
+      "longitude": 103.8
+    },
+    "currency": {
+      "name": "Singapore dollar",
+      "symbol": "$",
+      "code": "currencies.SGD"
+    },
+    "language": {
+      "name": "Singapore",
+      "code": "en",
+      "locale": "en-SG"
+    }
+  },
+  {
+    "id": "9e77698f-3157-4e60-8a85-c93f7cb2e592",
+    "name": "Republic of Ireland",
+    "location": {
+      "latitude": 53.0,
+      "longitude": -8.0
+    },
+    "currency": {
+      "name": "Euro",
+      "symbol": "€",
+      "code": "currencies.EUR"
+    },
+    "language": {
+      "name": "Ireland",
+      "code": "en",
+      "locale": "en-IE"
+    }
+  },
+  {
+    "id": "0a2ce96c-e5ff-41e8-b615-f3b3a596cf7f",
+    "name": "Commonwealth of Australia",
+    "location": {
+      "latitude": -27.0,
+      "longitude": 133.0
+    },
+    "currency": {
+      "name": "Australian dollar",
+      "symbol": "$",
+      "code": "currencies.AUD"
+    },
+    "language": {
+      "name": "Australia",
+      "code": "en",
+      "locale": "en-AU"
+    }
+  },
+  {
+    "id": "19c24d55-81d3-4b35-8526-17fd3a0f8e2a",
+    "name": "Republic of India",
+    "location": {
+      "latitude": 20.0,
+      "longitude": 77.0
+    },
+    "currency": {
+      "name": "Indian rupee",
+      "symbol": "₹",
+      "code": "currencies.INR"
+    },
+    "language": {
+      "name": "India",
+      "code": "en",
+      "locale": "en-IN"
+    }
+  },
+  {
+    "id": "95f11703-958f-405b-88c8-64600a46a23c",
+    "name": "Co-operative Republic of Guyana",
+    "location": {
+      "latitude": 5.0,
+      "longitude": -59.0
+    },
+    "currency": {
+      "name": "Guyanese dollar",
+      "symbol": "$",
+      "code": "currencies.GYD"
+    },
+    "language": {
+      "name": "Guyana",
+      "code": "en",
+      "locale": "en-GY"
+    }
+  },
+  {
+    "id": "46062402-5c9c-4ea2-8942-151f84252926",
+    "name": "Republic of Malta",
+    "location": {
+      "latitude": 35.9375,
+      "longitude": 14.3754
+    },
+    "currency": {
+      "name": "Euro",
+      "symbol": "€",
+      "code": "currencies.EUR"
+    },
+    "language": {
+      "name": "Malta",
+      "code": "mt",
+      "locale": "mt-MT"
+    }
+  },
+  {
+    "id": "a8ef6803-9228-4b23-8d7c-24fdcbac9b0c",
+    "name": "Russian Federation",
+    "location": {
+      "latitude": 60.0,
+      "longitude": 100.0
+    },
+    "currency": {
+      "name": "Russian ruble",
+      "symbol": "₽",
+      "code": "currencies.RUB"
+    },
+    "language": {
+      "name": "Россия",
+      "code": "ru",
+      "locale": "ru-RU"
+    }
+  },
+  {
+    "id": "77c23165-e2a5-4e4f-9a43-9dd29f3cd036",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "location": {
+      "latitude": 54.0,
+      "longitude": -2.0
+    },
+    "currency": {
+      "name": "British pound",
+      "symbol": "£",
+      "code": "currencies.GBP"
+    },
+    "language": {
+      "name": "United Kingdom",
+      "code": "en",
+      "locale": "en-GB"
+    }
+  },
+  {
+    "id": "3447f32d-2d81-4534-921e-ba57777e7134",
+    "name": "United States of America",
+    "location": {
+      "latitude": 38.0,
+      "longitude": -97.0
+    },
+    "currency": {
+      "name": "United States dollar",
+      "symbol": "$",
+      "code": "currencies.USD"
+    },
+    "language": {
+      "name": "United States",
+      "code": "en",
+      "locale": "en-US"
+    }
+  },
+  {
+    "id": "484a774f-b1e9-49ca-abaa-b4290d7670df",
+    "name": "Canada",
+    "location": {
+      "latitude": 60.0,
+      "longitude": -95.0
+    },
+    "currency": {
+      "name": "Canadian dollar",
+      "symbol": "$",
+      "code": "currencies.CAD"
+    },
+    "language": {
+      "name": "Canada",
+      "code": "en",
+      "locale": "en-CA"
+    }
+  }
+]

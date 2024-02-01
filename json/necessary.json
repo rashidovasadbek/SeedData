@@ -1,0 +1,23 @@
+[
+  {
+    "id": "newGuid()",
+    "name": "Republic of Uzbekistan",
+    "location": 
+    {
+      "latitude": 12.00,
+      "longitude": 12.22
+    },
+    "currency": 
+    {
+      "name": "Uzbekistani so'm", 
+      "symbol": "so'm", 
+      "code": "UZS"
+    },
+    "language":
+    {
+      "name": "Uzbek", 
+      "code": "uz", 
+      "locale": "uz-UZ"
+    }
+  }
+]
